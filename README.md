@@ -6,6 +6,9 @@ The source code of this package is based on geom_image from ggimage.
 + Follow me on [Facebook](https://www.facebook.com/RCODERweb)
 + Visit my [R programming site](https://r-coder.com/)
 
+## What is the memeverse?
+
+A collection of funny packages which can be interesting to create plots to show on a first lesson to new R students in order to motivate them learning the language. The other package of the (small) memeverse is [ggbernie](https://github.com/R-CoderDotCom/ggbernie).
 
 ## Installation
 ```r
