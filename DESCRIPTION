@@ -1,0 +1,13 @@
+Package: ggcats
+Title: The Geom you Always Wished for Adding Cats to ggplot2
+Version: 1.0
+Authors@R: 
+    person("R", "CODER",
+           role = c("aut", "cre"), email = "support.rcoder@protonmail.com")
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Imports: ggplot2, png, magick, methods
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
