@@ -2,13 +2,20 @@
 The geom you always wished for adding cats to ggplot2. This package is part of the memeverse.
 The source code of this package is based on geom_image from ggimage.
 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/67192157/105871532-b0a48700-5ff9-11eb-9371-ecd915ded374.png">
+</p>
+
+
+
 + Follow me on [Twitter](https://twitter.com/RCoderWeb)
 + Follow me on [Facebook](https://www.facebook.com/RCODERweb)
 + Visit my [R programming site](https://r-coder.com/)
 
 ## What is the memeverse?
 
-A collection of funny packages which can be interesting to create plots to show on a first lesson to new R students in order to motivate them learning the language. The other package of the (small) memeverse is [ggbernie](https://github.com/R-CoderDotCom/ggbernie).
+A collection of funny packages which can be interesting to create plots to show on a first lesson to new R students in order to motivate them learning the language. The other package of the (small) memeverse is [ggbernie](https://github.com/R-CoderDotCom/ggbernie). Statistics and programming can be fun!
 
 ## Installation
 ```r
