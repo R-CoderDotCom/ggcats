@@ -15,6 +15,7 @@ ggname <- getFromNamespace("ggname", "ggplot2")
 ##' @importFrom grid rectGrob
 ##' @importFrom grid pointsGrob
 ##' @importFrom grid gpar
+##' @importFrom grDevices as.raster
 ##' @export
 draw_key_cat <- function(data, params, size) {
 
