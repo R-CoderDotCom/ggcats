@@ -30,8 +30,9 @@ grid <- expand.grid(1:5, 3:1)
 
 df <- data.frame(x = grid[, 1],
                  y = grid[, 2],
-                 image = c("nyancat", "bongo", "colonel", "grumpy", "hipster", "lil_bub", "maru",
-                           "mouth", "pop", "pop_close", "pusheen", "pusheen_pc", "toast", "venus", "shorineko"))
+                 image = c("nyancat", "bongo", "colonel", "grumpy", "hipster",
+                           "lil_bub", "maru", "mouth", "pop", "pop_close", 
+                           "pusheen", "pusheen_pc", "toast", "venus", "shorineko"))
                            
 library(ggplot2)
 ggplot(df) +
