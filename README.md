@@ -46,7 +46,7 @@ df <- data.frame(x = grid[, 1],
                            
 library(ggplot2)
 ggplot(df) +
- geom_cat(aes(x, y, cat =image), size = 5) +
+ geom_cat(aes(x, y, cat = image), size = 5) +
     xlim(c(0.25, 5.5)) + 
     ylim(c(0.25, 3.5))
 ```
@@ -95,10 +95,6 @@ library(gganimate)
    pivot_longer(cols = starts_with("income"),
                 names_to = "income",
                 names_prefix = "income_")
-
-
-dat99 <- dat[dat$income == "99percent", ]
-datmedian <- dat[dat$income == "median", ]
 
 dat$cat <- rep(NA, 132)
 
