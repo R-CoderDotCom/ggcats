@@ -1,5 +1,6 @@
 # ggcats
-The geom you always wished for adding cats to ggplot2. Part of the memeverse. The source code of this package is based on geom_image from ggimage.
+The geom you always wished for adding cats to ggplot2. This package is part of the memeverse.
+The source code of this package is based on geom_image from ggimage.
 
 + Follow me on [Twitter](https://twitter.com/RCoderWeb)
 + Follow me on [Facebook](https://www.facebook.com/RCODERweb)
@@ -62,6 +63,9 @@ ggplot(mtcars) +
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/105849119-416e6900-5fe0-11eb-904e-6dc30be87546.png">
 </p>
+
+
+I took the most part of the following code from [Jonathan Hersh](https://twitter.com/DogmaticPrior).
 
 ```r
 library(Ecdat)
