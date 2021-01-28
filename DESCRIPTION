@@ -4,7 +4,7 @@ Version: 1.0
 Authors@R: 
     person("R", "CODER",
            role = c("aut", "cre"), email = "support.rcoder@protonmail.com")
-Description: What the package does (one paragraph).
+Description: Allows adding several famous meme cats to ggplot with a geom equivalent to geom_point
 License: GPL-3
 Encoding: UTF-8
 Imports: ggplot2, png, magick, methods
