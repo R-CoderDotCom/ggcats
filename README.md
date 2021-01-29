@@ -30,7 +30,7 @@ There are 15 cats available:
 
 ```r
 "nyancat" (default), "bongo", "colonel", "grumpy", "hipster", "lil_bub", "maru",
-"mouth", "pop", "pop_close", "pusheen", "pusheen_pc", "toast", "venus" and "shorineko"
+"mouth", "pop", "pop_close", "pusheen", "pusheen_pc", "toast", "venus" and "shironeko"
 ```
 
 ## Some examples
@@ -42,7 +42,7 @@ df <- data.frame(x = grid[, 1],
                  y = grid[, 2],
                  image = c("nyancat", "bongo", "colonel", "grumpy", "hipster",
                            "lil_bub", "maru", "mouth", "pop", "pop_close", 
-                           "pusheen", "pusheen_pc", "toast", "venus", "shorineko"))
+                           "pusheen", "pusheen_pc", "toast", "venus", "shironeko"))
                            
 library(ggplot2)
 ggplot(df) +
