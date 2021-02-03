@@ -52,7 +52,7 @@ ggplot(df) +
 ```
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/67192157/105848548-67473e00-5fdf-11eb-8f8b-fff9860b6171.png">
+ <img src="https://user-images.githubusercontent.com/67192157/106767679-6b0c3d80-663b-11eb-96f5-a21f2794bd84.png">
 </p>
 
 
