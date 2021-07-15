@@ -15,7 +15,7 @@ The source code of this package is based on geom_image from ggimage.
 
 ## What is the memeverse?
 
-A collection of funny packages which can be interesting to create plots to show on a first lesson to new R students in order to motivate them learning the language. The other package of the (small) memeverse is [ggbernie](https://github.com/R-CoderDotCom/ggbernie). Statistics and programming can be fun!
+A collection of funny packages which can be interesting to create plots to show on a first lesson to new R students in order to motivate them learning the language. The other package of the (small) memeverse are [ggdogs](https://github.com/R-CoderDotCom/ggdogs) and [ggbernie](https://github.com/R-CoderDotCom/ggbernie). Statistics and programming can be fun!
 
 ## Installation
 ```r
